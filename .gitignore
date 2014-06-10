@@ -1,0 +1,6 @@
+/target
+/twitter-search.log*
+/twitter-search.csv
+/.classpath
+/.project
+/.settings
